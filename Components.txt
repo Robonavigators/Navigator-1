@@ -1,0 +1,37 @@
+Genuine Arduino UNO (एक) R4 Wi-Fi 1 pcs
+
+L298N Motor Driver Module 1 pcs
+
+Breadboard power rail 1 pcs
+
+Ultrasonic sensor (HC-SR04) 1 pcs 
+
+IR sensor 1 pcs (for anti-falling)
+
+MG90S micro servo 1 pcs
+
+Ultrasonic Sensor Holder 1 pcs 
+
+Rechargeable 18650 batteries 2 pcs
+
+Battery case for double 18650 batteries 1 pcs
+
+Voltage Sensor Module 25V 1 pcs 
+
+Jumper wires:⬇️
+
+Male to Male 20 pcs
+
+Male to Female 20 pcs
+
+Female to Female 20 pcs
+
+Dc Bo motor (One shaft) 4 pcs
+
+Dc Bo motor wheels 4 pcs
+
+Acrylic Chassis 4WD 1 set
+
+WS2812B RGB Neopixel 1 pcs
+
+Normal/Hook wire 3 metre (optional)
