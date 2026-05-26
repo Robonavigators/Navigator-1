@@ -1,10 +1,18 @@
 # 🚀 Navigator 1: Autonomous Robotics Platform
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) ![Arduino UNO R4 WiFi](https://img.shields.io/badge/Hardware-Arduino_UNO_R4_WiFi-00979D?style=flat&logo=arduino&logoColor=white)
 
 **Engineered by Team Robonavigators**
 
 Navigator 1 is a highly fault-tolerant, AI-assisted rover powered by a custom 884-line C++ embedded operating system. Built entirely from scratch on the **Arduino UNO R4 WiFi** architecture, it features a standalone asynchronous web server, an active physics-based safety engine, and six intelligent driving modes.
+
+---
+
+## 📊 Project Presentation
+
+**[View the Navigator 1 Technical Presentation & Slide Deck Here](https://drive.google.com/file/d/1NDbsCwXG6vCk6sO1d964J01A3xxocoaC/view?usp=drivesdk)**
+
+This presentation provides a high-level overview of the hardware architecture, the physics-based safety engine, and the custom web OS.
 
 ---
 
@@ -76,7 +84,7 @@ Navigator 1 is a highly fault-tolerant, AI-assisted rover powered by a custom 88
 
 MIT License
 
-Copyright (c) 2026 Team Robonavigators
+Copyright (c) 2026 Rayyan and Team Robonavigators
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
