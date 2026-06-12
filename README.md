@@ -1,6 +1,6 @@
 # 🚀 Navigator 1: Autonomous Robotics Platform
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) ![Arduino UNO R4 WiFi](https://img.shields.io/badge/Hardware-Arduino_UNO_R4_WiFi-00979D?style=flat&logo=arduino&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.css)](https://opensource.org/licenses/MIT) ![Arduino UNO R4 WiFi](https://img.shields.io/badge/Hardware-Arduino_UNO_R4_WiFi-00979D?style=flat&logo=arduino&logoColor=white)
 
 **Engineered by Team Robonavigators**
 
