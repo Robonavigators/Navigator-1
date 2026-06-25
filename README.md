@@ -84,7 +84,7 @@ This presentation provides a high-level overview of the hardware architecture, t
 
 MIT License
 
-Copyright (c) 2026 Team Robonavigators
+Copyright (c) 2026 Robonavigators
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
