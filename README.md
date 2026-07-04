@@ -30,7 +30,7 @@ This presentation provides a high-level overview of the hardware architecture, t
 * **Cliff Detection:** Interrupt-level downward IR sensors trigger immediate active braking to prevent table drop-offs.
 
 ### 🔋 Power Architecture
-* **Custom Charging Matrix:** Proprietary 4-bay TP4056 independent charging station ensures perfectly balanced 18650 lithium-ion cells, eliminating the risks of series charging.
+
 * **Precision Telemetry:** Employs an Exponential Moving Average (EMA) software filter to deliver live, multimeter-accurate battery voltage readings directly to the web UI.
 
 ---
