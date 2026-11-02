@@ -2,7 +2,7 @@
 
 **Official Project Website:** [Explore Navigator 1](https://robonavigators-io.vercel.app/Projects/Navigator-1/)
 
-**View The Circuit Diagram:** [Circuit Diagram](https://github.com/Robonavigators/main/blob/Navigator-1_Circuit_Diagram.pdf)
+**View The Circuit Diagram:** [Circuit Diagram](https://github.com/Robonavigators/Navigator-1/blob/main/Navigator-1_Circuit_Diagram.pdf)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) ![Arduino UNO R4 WiFi](https://img.shields.io/badge/Hardware-Arduino_UNO_R4_WiFi-00979D?style=flat&logo=arduino&logoColor=white)
 
