@@ -2,7 +2,7 @@
 
 **Official Project Website:** [Explore Navigator 1](https://robonavigators-io.vercel.app/Projects/Navigator-1/)
 
-![Navigator 1 by Robonavigators] (images/Navigator-1-preview.png)
+![Navigator 1 by Robonavigators](images/Navigator-1-preview.png)
 
 **View The Circuit Diagram:** [Circuit Diagram](https://github.com/Robonavigators/Navigator-1/blob/main/Navigator-1_Circuit_Diagram.pdf)
 
