@@ -66,8 +66,8 @@ char pass_AP[] = "Navigator1@Robonavigators";
 
 // --- STA/HOTSPOT CREDENTIALS (Pin 4 connected to 5V) ---
 // The robot attempts to connect to this existing WiFi network if switch is on
-char ssid_STA[] = "Xiaomi 11i Rayyan"; 
-char pass_STA[] = "Robonavigators@Stem";
+char ssid_STA[] = "YOUR_STA_SSID"; 
+char pass_STA[] = "YOUR_STA_PASS";
 
 // Initialize hardware objects
 WiFiServer server(80); // Web server running on standard port 80
