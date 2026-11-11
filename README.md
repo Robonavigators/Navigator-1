@@ -16,8 +16,7 @@ Navigator 1 is a highly fault-tolerant, AI-assisted rover powered by a custom 88
 
 ## 📊 Project Presentation
 
-**[View the Navigator 1 Technical Presentation & Slide Deck Here](https://github.com/Robonavigators/Navigator-1/blob/main/images/Navigator-1-Presentation.pptx)**
-
+**[View the Navigator 1 Technical Presentation & Slide Deck Here](https://docs.google.com/presentation/d/1GQu6htBm1yauITJ52WgAknWcPMZvfwF8B32hLi-xvGU/edit?usp=sharing)**
 This presentation provides a high-level overview of the hardware architecture, the physics-based safety engine, and the custom web OS.
 
 ---
